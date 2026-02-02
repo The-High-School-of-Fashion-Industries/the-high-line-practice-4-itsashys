@@ -1,13 +1,27 @@
-Body {
-
+body{
+    
+    align-items: center;
     flex-direction: column;
     display:flex;
     background: color #f2cdac;
-    
-}
+    }
 
-.Heading1{
+h1  {
+    text-align: center;
     Color: #4ca594;
-    Size:120%
-    
+    Size: 120%
+    }
+
+h2 {
+    align-items: left;
+    color: #1B7F7A;
+    Size: 120%
+   } 
+
+   ul {
+    align-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    list-style-type: none;
+    font-size: 100%;
 }
