@@ -45,3 +45,17 @@ h1 {
         text-decoration: none;
         color: teal;
     }
+
+    #img1{
+        float: left;
+        margin-left: 15px
+    }
+    
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 50px;
+    }
+
+    form{
+    flex-direction: column;
+    }
